@@ -10,10 +10,10 @@ function App() {
     <Router>
 
     <Switch>
-     
-      <Route  exact path="/"  >      <Create/></Route>
-      <Route exact path='/read'  >     <Read/></Route>
-      <Route exact path='/update'  >     <Update/></Route>
+     "
+      <Route exact  path="/"  > <Create/></Route>
+      <Route exact path='/read'  > <Read/></Route>
+      <Route exact path='/update/:id'  > <Update/></Route>
 
 
 

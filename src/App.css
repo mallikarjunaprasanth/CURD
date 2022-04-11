@@ -4,3 +4,6 @@
 .hover:hover{
   transform : scale(1.1)
 }
+.bgcolor{
+  background: rgb(148, 233, 185);
+}
